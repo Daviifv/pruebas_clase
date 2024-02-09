@@ -6,3 +6,4 @@
 "Alex Baena" 
 "Javier Estrada"
 "Kun Agüero"
+"Leandro Gado"
