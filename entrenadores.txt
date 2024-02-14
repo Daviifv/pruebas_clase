@@ -1,4 +1,1 @@
-"Lista de entrenadores" 
-"Marcelino García Toral" 
-"Rubén Uría" 
-"Solomeo Paredes"
+Manolo 
